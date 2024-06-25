@@ -1,0 +1,94 @@
+body{
+    background-color: rgb(173, 218, 255);
+}
+
+
+
+header {
+    background-color: white;
+    color: black;
+    padding: 15px 0;
+    text-align: center;
+}
+
+
+nav ul {
+    list-style: none;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+}
+
+
+nav li {
+    display: inline-block;
+    border-radius: 10px;
+}
+
+
+nav li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+}
+
+
+nav li a:hover {
+    background-color: white;
+}
+
+img {
+    width: 700px;
+    border-radius: 10px;
+}
+
+hr{
+    /* linha sólida preta com 1 pixel de largura*/
+    border: lpx solid;
+    border-color: #808080;
+    width: 700px;
+}
+
+h1{
+    font-family: 'Cambria', Cochin, Georgia;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+p{
+    font-family: '9Trebuchet MS', sans-serif;
+    font-size: 12;
+    color:black;
+}
+
+li{
+    background-color: #67cb57;
+}
+
+body{
+    text-align:center;
+     
+  }  
+ 
+  #album  {
+    width:700px;
+    border-radius:30px;
+  }
+ #botao{
+    border-radius: 10px;
+ }
+
+ #email{
+    border-radius: 10px;
+ }
+
+ #nome{
+    border-radius: 10px;
+ }
+#comment{
+    border-radius: 10px 20px;
+}
